@@ -1,0 +1,6 @@
+train: C:/Users/User/PycharmProjects/Detection/Pothole/train/images
+test: C:/Users/User/PycharmProjects/Detection/Pothole/test/images
+val: C:/Users/User/PycharmProjects/Detection/Pothole/valid/images
+
+nc: 1
+names: ['pothole']
