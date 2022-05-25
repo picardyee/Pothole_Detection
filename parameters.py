@@ -1,8 +1,7 @@
 --img 640
 --batch 8
---epochs 100
+--epochs 2
 --data C:\Users\User\PycharmProjects\Detection\Pothole\data.yaml
 --cfg C:\Users\User\PycharmProjects\Detection\yolov5\models\yolov5s.yaml
---weifgts ''
---name pothole_results
---cache
+--weights ''
+--name test
