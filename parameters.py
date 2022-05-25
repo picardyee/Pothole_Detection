@@ -4,4 +4,4 @@
 --data C:\Users\User\PycharmProjects\Detection\Pothole\data.yaml
 --cfg C:\Users\User\PycharmProjects\Detection\yolov5\models\yolov5s.yaml
 --weights ''
---name 'pothole result'
+--name pothole result
