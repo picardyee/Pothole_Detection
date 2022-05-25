@@ -1,7 +1,7 @@
 --img 640
---batch 8
---epochs 2
+--batch 32
+--epochs 500
 --data C:\Users\User\PycharmProjects\Detection\Pothole\data.yaml
 --cfg C:\Users\User\PycharmProjects\Detection\yolov5\models\yolov5s.yaml
 --weights ''
---name test
+--name 'pothole result'
